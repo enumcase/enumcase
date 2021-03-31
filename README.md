@@ -1,4 +1,4 @@
-### Salem 👋
+### Hey, there! 👋
 
 <img src="https://github.com/enumcase/enumcase/blob/main/assets/background.jpg">
 
