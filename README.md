@@ -1,4 +1,4 @@
-### Hey, there! 👋
+### Hey, there! (･ω･)ﾉ
 
 I'm Margulan, 2nd year CS student at Nazarbayev University.
 
