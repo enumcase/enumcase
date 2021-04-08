@@ -6,5 +6,4 @@ I'm Margulan, 2nd year CS student at Nazarbayev University.
 
 - 🍎 iOS and Swift enthusiast. 
 - 💻 I enjoy low-level programming.
-- 🍱 I love Japanese cooking.
 - 🌇 Sunset and anime lover.
