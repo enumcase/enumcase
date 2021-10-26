@@ -1,4 +1,4 @@
-### Hey there! (･ω･)ﾉ
+### Hey there! (^-^)/
 
 I'm Margulan (Mark), junior CS student at Nazarbayev University.
 
