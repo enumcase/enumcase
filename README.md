@@ -1,6 +1,6 @@
 ### Hey there! (^-^)/
 
-I'm Margulan (Mark), junior CS student at Nazarbayev University.
+I'm Margulan (Mark), CS student at Nazarbayev University.
 
 Current SWE Intern at Mercari. Previously at Yandex, D&O Investment.
 
