@@ -8,6 +8,6 @@ Previous SWE Intern at Mercari, Yandex, D&O Investment.
 - 💻 I enjoy low-level programming.
 - 🌇 Sunset and anime lover.
 
-Feel free to email me here: markdaribayev@gmail.com or text on Telegram: [enumcase](https://t.me/enumcase)
+Feel free to text me on Telegram: [enumcase](https://t.me/enumcase)
 
 <img src="https://github.com/enumcase/enumcase/blob/main/assets/background.jpg" width="500">
