@@ -2,7 +2,7 @@
 
 I'm Margulan (Mark), CS student at Nazarbayev University.
 
-Previous SWE Intern at Mercari, Yandex, D&O Investment.
+Previous SWE Intern at Mercari (2 times), Yandex, D&O Investment.
 
 - 🍎 iOS and Swift enthusiast. 
 - 💻 I enjoy low-level programming.
