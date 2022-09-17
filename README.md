@@ -8,6 +8,6 @@ Previous SWE Intern at Mercari (2 times), Yandex, D&O Investment.
 - 💻 I enjoy low-level programming.
 - 🌇 Sunset and anime lover.
 
-Feel free to text me on Telegram: [enumcase](https://t.me/enumcase)
+@enumcase in most of SNS.
 
 <img src="https://github.com/enumcase/enumcase/blob/main/assets/background.jpg" width="500">
