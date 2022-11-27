@@ -1,13 +1,13 @@
 ### hey there! (^-^)/
 
-i'm Margulan (Mark), senior CS student at Nazarbayev University
+i'm margulan (mark), senior cs student at nazarbayev university
 
-previous SWE Intern at Mercari (2 times), Yandex, D&O Investments
+previous swe intern at mercari (2 times), yandex, d&o investments
 
-- iOS and Swift enthusiast 🍎🕊✨
+- ios and swift enthusiast 🍎🕊✨
 - like reading about architecture, low-level concepts 💻⚙️🍀
 - love cherry pies, kpop and webtoons 🥧💜🌱
 
-@enumcase or @honeylimerice in most of SNS
+@enumcase or @honeylimerice in most of sns
 
 <img src="https://github.com/enumcase/enumcase/blob/main/assets/background.jpg" width="500">
