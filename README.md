@@ -10,4 +10,4 @@ previous swe intern at mercari (2 times), yandex, d&o investments
 
 @enumcase or @honeylimerice in most of sns
 
-<img src="https://user-images.githubusercontent.com/28789564/217781311-f07692c7-9adc-4665-818e-d9b9bbddd641.jpg" width="300">
+<img src="https://user-images.githubusercontent.com/28789564/217783299-977e4e33-0cf3-41ac-a354-dd308b39dc34.jpg" width="500">
