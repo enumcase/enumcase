@@ -3,6 +3,7 @@
 i'm margulan (mark), senior cs student at nazarbayev university
 
 previous swe intern at mercari (2 times), yandex, d&o investments
+
 previous ios swe at ours (us based social media startup)
 
 - ios and swift enthusiast 🍎🕊✨
