@@ -4,7 +4,7 @@ i'm margulan (mark), senior cs student at nazarbayev university
 
 previous swe intern at mercari (2 times), yandex, d&o investments
 
-previous ios swe at ours (us based social media startup)
+previous ios swe at ours (us based social media startup), bbsoft (dubai based web3 and nft startup)
 
 - ios and swift enthusiast 🍎🕊✨
 - like reading about architecture, low-level concepts ⭐️🍀🫧
