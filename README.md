@@ -4,7 +4,7 @@ i'm margulan (mark)
 
 - from kazakhstan 🇰🇿
 - ios and swift enthusiast 🍎🕊✨
-- like reading about architecture, low-level concepts ⭐️🍀🫧
+- like reading about architecture and low-level concepts ⭐️🍀🫧
 - love cherry pies, kpop and webtoons 🥧💜🌱
 
 @enumcase or @honeylimerice in most of sns
