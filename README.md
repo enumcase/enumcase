@@ -1,4 +1,4 @@
-### hey there! (^-^)/
+### hey there!
 
 i'm margulan (mark)
 
