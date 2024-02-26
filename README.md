@@ -1,11 +1,12 @@
-### hey there!
+### Hey there!
 
-i'm margulan (mark)
+I'm Margulan, software engineer from Kazakhstan 🇰🇿
 
-- from kazakhstan 🇰🇿
-- ios and swift enthusiast 🍎🕊✨
-- like reading about architecture and low-level concepts ⭐️🍀🫧
-- love cherry pies, kpop and webtoons 🥧💜🌱
+Few things about me:
+- iOS and Swift enthusiast 🍎
+- I like reading books in general, and articles about architecture or low-level concepts 🍀
+- I love cherry pies and cheesecakes 🥧
+- Probably watching kpop or reading webtoons on breaks 🐹
 
 @enumcase or @honeylimerice in most of sns
 
