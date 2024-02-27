@@ -2,7 +2,7 @@
 
 I'm Margulan, software engineer from Kazakhstan 🇰🇿
 
-Few things about me:
+Random facts about me:
 - iOS and Swift enthusiast 🍎
 - I like reading books in general, and articles about architecture or low-level concepts 🍀
 - I love cherry pies and cheesecakes 🥧
