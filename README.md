@@ -2,6 +2,9 @@
 
 I'm Margulan, software engineer from Kazakhstan 🇰🇿
 
+Currently SWE (iOS) at Mercari, Tokyo. Sometimes working on mobile infra and backend on golang
+
+
 Random facts about me:
 - iOS and Swift enthusiast 🍎
 - I like reading books in general, and articles about architecture or low-level concepts 🍀
