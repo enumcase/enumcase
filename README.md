@@ -6,9 +6,9 @@ Currently SWE at Mercari, Tokyo. Usually doing iOS and Swift stuff, sometimes wo
 
 Random info:
 - iOS and Swift enthusiast 🍎
-- I like reading books in general, and articles about architecture or low-level concepts 🍀
+- Favorite things to read: books in general, and articles about architecture or low-level concepts xd
 - I love cherry pies, cheesecakes and astrophysics 🥧
-- Probably watching kpop or reading webtoons on breaks 🐹
+- Probably watching kpop or reading webtoons on breaks
 
 @enumcase or @honeylimerice in most of sns
 
