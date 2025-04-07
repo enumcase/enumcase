@@ -12,4 +12,4 @@ Random info:
 
 @enumcase or @honeylimerice in most of sns
 
-<img src="https://github.com/user-attachments/assets/00908a78-f334-46d6-8933-e8c3f6d83c51">
+<img src="https://github.com/user-attachments/assets/00908a78-f334-46d6-8933-e8c3f6d83c51" width="600">
