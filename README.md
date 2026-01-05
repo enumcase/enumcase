@@ -2,7 +2,7 @@
 
 I'm Margulan, software engineer from Kazakhstan 🇰🇿
 
-Currently at Mercari, Tokyo. Usually doing iOS and Swift stuff, sometimes working on infra and backend on golang
+Currently at Mercari, Tokyo. Usually doing iOS and Swift stuff, sometimes working on mobile infra and backend on golang
 
 Focusing on:
 - iOS, Swift and sometimes microservices on Go and little bit of ML
