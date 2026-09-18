@@ -11,7 +11,7 @@ Some of ongoing works:
 Focusing on:
 - bootstrapping, raising, building and karting
 - iOS, Swift and sometimes microservices on Go
-- doing Data Science masters
+- some DS and ML
 - articles about architecture or low-level concepts
 
 <img src="https://github.com/user-attachments/assets/00908a78-f334-46d6-8933-e8c3f6d83c51" width="600">
